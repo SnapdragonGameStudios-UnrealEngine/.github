@@ -16,5 +16,3 @@ explores, innovates, and pushes gaming technologies through collaboration with w
 This site is part of our [Snapdragon Game Toolkit](https://developer.qualcomm.com/gametoolkit). Please visit the [Snapdragon Game Toolkit](https://developer.qualcomm.com/gametoolkit) site for additional information on how to create best-in-class gaming experiences on Snapdragon Platforms.
 
 We also maintain a collection of [Unreal Engine plugins](https://github.com/SnapdragonGameStudios/snapdragon-game-plugins-for-unreal-engine) for Snapdragon platforms. These include plugins for Snapdragon™ Game Super Resolution, Qualcomm™ NPE (Neural Processing Engine), and Qualcomm™ Shadow Denoiser.
-
-For other Qualcomm 
